@@ -1,0 +1,4 @@
+#Wed Sep 23 14:46:38 SGT 2020
+base.0=C\:\\Users\\esmon\\Pictures\\laala\\android 3004\\samples\\Multidisciplinary_Design_Project_CZ3004-master\\Android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

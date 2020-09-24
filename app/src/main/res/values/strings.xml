@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">MDP Group 14</string>
+    <string name="tab_text_1">Bluetooth</string>
+    <string name="tab_text_2">Comms</string>
+    <string name="tab_text_3">Map</string>
+    <string name="tab_text_4">Control</string>
+
+    <!--  Comms  -->
+    <string name="send">SEND</string>
+    <string name="reconfiguration">RECONFIGURATION</string>
+    <string name="f1">F1</string>
+    <string name="f2">F2</string>
+
+    <!-- Dialog -->
+    <string name="f1Placeholder">Enter F1</string>
+    <string name="f2Placeholder">Enter F2</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+
+    <!-- Map -->
+    <string name="manual">MANUAL</string>
+    <string name="auto">AUTO</string>
+
+    <!-- strings in activity_comms.xml -->
+    <string name="msg">Message</string>
+    <string name="typesmth">Type something...</string>
+
+    <!-- strings in activity_control.xml -->
+    <string name="calibrate">CALIBRATE</string>
+    <string name="TOff">TILT OFF</string>
+    <string name="exploration">EXPLORATION</string>
+    <string name="explore">EXPLORE</string>
+    <string name="stop">STOP</string>
+    <string name="etime">Exploration Time</string>
+    <string name="dtime">00:00</string>
+    <string name="fastest">FASTEST</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="up">UP</string>
+    <string name="down">DOWN</string>
+    <string name="fpath">Fastest Path</string>
+    <string name="refresh">REFRESH</string>
+
+
+    <!-- strings in activity_map_information.xml -->
+    <string name="SObstacle">Show Obstacle</string>
+    <string name="SExplored">Show Explored</string>
+    <string name="mapinfo">Map Information</string>
+
+
+    <!-- strings inactivity_direction.xml -->
+    <string name="CDirection">Change Direction</string>
+
+
+    <!-- strings activity.main.xml -->
+    <string name="NAvailable">Not Available</string>
+    <string name="zero">0</string>
+    <string name="Y">Y :</string>
+    <string name="X">X :</string>
+    <string name="printMDF">Print MDF String</string>
+    <string name="direction">Direction :</string>
+    <string name="none">None</string>
+    <string name="rstatus">Robot Status</string>
+
+    <!-- strings activity_map.xml -->
+    <string name="sstartpt">SET STARTPOINT</string>
+    <string name="swaypt">SET WAYPOINT</string>
+    <string name="update">UPDATE</string>
+    <string name="rmap">RESET MAP</string>
+    <string name="check">check</string>
+    <string name="clear">clear</string>
+    <string name="error">error</string>
+
+    <!--bluetooth_pop_up_window.xml-->
+    <string name="back">back</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="off">OFF</string>
+    <string name="search">SEARCH</string>
+    <string name="bconnection">Bluetooth Connection</string>
+    <string name="dfound">Device Found</string>
+    <string name="connect">CONNECT</string>
+    <string name="pdevices">Paired Devices</string>
+</resources>
